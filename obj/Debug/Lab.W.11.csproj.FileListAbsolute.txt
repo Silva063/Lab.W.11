@@ -1,0 +1,11 @@
+C:\Users\slava\source\repos\Lab.W.11\bin\Debug\Lab.W.11.exe.config
+C:\Users\slava\source\repos\Lab.W.11\bin\Debug\Lab.W.11.exe
+C:\Users\slava\source\repos\Lab.W.11\bin\Debug\Lab.W.11.pdb
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W.11.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W.11.csproj.SuggestedBindingRedirects.cache
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W._11.Form1.resources
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W._11.Properties.Resources.resources
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W.11.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W.11.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W.11.exe
+C:\Users\slava\source\repos\Lab.W.11\obj\Debug\Lab.W.11.pdb
